@@ -5,4 +5,4 @@ Aprenda javascript de forma simples
 
 ![homem-lentra](https://github.com/MatheusPP1/javascript/blob/main/homem-letra.gif)
 
-### Link do Curso ![Aula JavaScript](htttps://www.google.com)
+### Link do Curso ![Aula JavaScript](https://www.google.com)
